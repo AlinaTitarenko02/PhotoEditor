@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE90C4EB-C77B-4A95-9AED-26F7DB8CF07C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2080D1D1-668F-4D8A-B865-0F81EB4459C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "photoEditor/Flow/FilterPhoto/FilterPhotoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "saveImage(fileName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2080D1D1-668F-4D8A-B865-0F81EB4459C8 - d4a47bd4207f7bbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoViewModel.saveImage(fileName: Swift.String) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "2080D1D1-668F-4D8A-B865-0F81EB4459C8 - d4a47bd4207f7b9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoViewModel.saveImage(fileName: Swift.String) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "2080D1D1-668F-4D8A-B865-0F81EB4459C8 - d4a47bd4207f7b9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoViewModel.saveImage(fileName: Swift.String) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "461">
+               </Location>
+               <Location
+                  uuid = "2080D1D1-668F-4D8A-B865-0F81EB4459C8 - d4a47bd4207f7ae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoViewModel.saveImage(fileName: Swift.String) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E9C61BD-15F4-41F4-BFA1-6ECF9E864A86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "photoEditor/Flow/FilterPhoto/FilterPhotoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "deleteCustomEffect(indexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "516161AD-95D5-4658-96F1-50EE5574E21B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "contrastTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "516161AD-95D5-4658-96F1-50EE5574E21B - f3198c62aa103c3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.contrastTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "516161AD-95D5-4658-96F1-50EE5574E21B - f3198c62aa103c3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.contrastTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "974D1E82-28D7-4695-ABC6-594B4315768F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "highlighterTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "974D1E82-28D7-4695-ABC6-594B4315768F - eedfa03d7145e2f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.highlighterTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "974D1E82-28D7-4695-ABC6-594B4315768F - eedfa03d7145e2f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.highlighterTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE7708AE-22B5-4030-81C3-A9E0186333D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "BrillianceTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE7708AE-22B5-4030-81C3-A9E0186333D6 - 5302eaa9bd1bfa8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.BrillianceTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "FE7708AE-22B5-4030-81C3-A9E0186333D6 - 5302eaa9bd1bfa8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.BrillianceTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64C6A3BA-948F-4195-B8AC-993BD4A12471"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "exposureTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64C6A3BA-948F-4195-B8AC-993BD4A12471 - 8cf218ff401e5883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.exposureTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "64C6A3BA-948F-4195-B8AC-993BD4A12471 - 8cf218ff401e5883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "photoEditor.FilterPhotoView.exposureTap(Any) -&gt; ()"
+                  moduleName = "photoEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinatitarenko/Desktop/photoEditor/photoEditor/Flow/FilterPhoto/FilterPhotoView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
